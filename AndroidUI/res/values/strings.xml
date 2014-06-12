@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_controls">Input Controls</string>
+    
+    <string name="button">Button</string>
+    
+    <string name="textFields">Text Fields</string>
+    <string name="editText">EditText</string>
+    <string name="autoCompleteTextView">AutoComplete TextView</string>
+    
+    <string name="checkboxes">Checkboxes</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">red</string>
+    
+    <string name="radioButton">Radio Button</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    
+    <string name="toggleButton">Toggle Butotn</string>
+    
+    <string name="spinner">Spinner</string>
+    <string name="spinnerItem1">Spinner Item 1</string>
+    <string name="spinnerItem2">Spinner Item 2</string>
+    <string name="spinnerItem3">Spinner Item 3</string>
+    <string name="spinnerItem4">Spinner Item 4</string>
+    
+    <string name="pickers">Pickers</string>
+    
+    
+
+</resources>
