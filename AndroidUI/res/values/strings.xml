@@ -10,7 +10,7 @@
     
     <string name="textFields">Text Fields</string>
     <string name="editText">EditText</string>
-    <string name="autoCompleteTextView">AutoComplete TextView</string>
+    <string name="autoCompleteTextView">AutoComplete</string>
     
     <string name="checkboxes">Checkboxes</string>
     <string name="green">Green</string>
